@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+.DS_Store
+We usually ignore data, but for this assignment, 
+the prompt asks to include the JSON file.
+data/

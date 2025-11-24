@@ -1,0 +1,8 @@
+Standard Libraries used:
+json
+logging
+pathlib
+sys
+os
+Dev Dependencies
+pytest
